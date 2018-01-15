@@ -50,9 +50,9 @@
         "import-local": "^0.1.1",
         "meow": "^3.7.0",
         "pify": "^3.0.0",
-        "prettier": "^1.8.2",
+        "prettier": "^1.10.2",
         "resolve-from": "^4.0.0",
-        "stylelint": "^8.1.1",
+        "stylelint": "^8.4.0",
         "temp-write": "^3.3.0",
         "tempy": "^0.2.1",
         "update-notifier": "^2.2.0"
