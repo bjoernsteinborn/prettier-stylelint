@@ -60,6 +60,7 @@ resolveConfig.resolve = (stylelintConfig, prettierOptions = {}) => {
             prettierOptions.tabWidth = indentation;
         }
     }
+    prettierOptions.parser = 'scss';
 
     debug('prettier %O', prettierOptions);
     debug('linter %O', stylelintConfig);
